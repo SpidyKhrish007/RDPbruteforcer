@@ -8,7 +8,7 @@ import argparse
 class RDPBruteForcer():
     def __init__(self):
         self.info = "RDP Brute Forcer"
-        self.targetIp = ""
+        self.targetIp = "34.93.22.145"
         self.domain = ""
         self.uep = ""
         self.targets = []
